@@ -1,16 +1,17 @@
+> **WIP** : This repository and account is still a work in progress.
+
 ### Hi there 👋
 
-<!--
-**Rainedrops/Rainedrops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Aeden (she/her, they/them)
 
-Here are some ideas to get you started:
+I use this account as a portfolio for the games and other projects i've been making that are worth showing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to check these repositories !
+
+- [:alien: Micky the alien](https://github.com/Rainedrops/micky-the-alien)
+- [:gun: Project Monroe](https://github.com/Rainedrops/project-monroe)
+- [:door: Labyrinthe](https://github.com/Rainedrops/Labyrinthe)
+- [:carrot: Beatroot](https://github.com/Rainedrops/beatroot)
+- [:moneybag: Future Ca$$](https://github.com/Rainedrops/future-cass)
+
+If you wish to contact me you can send me a message at aetherwing@proton.me
