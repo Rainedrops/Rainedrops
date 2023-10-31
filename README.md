@@ -14,4 +14,4 @@ Feel free to check these repositories !
 - [:carrot: Beatroot](https://github.com/M7kado/BeatRoot)
 - [:moneybag: Future Ca$$](https://github.com/rainedrops/future-cass)
 
-If you wish to contact me you can send me a message at aetherwing@proton.me
+If you wish to contact me you can send me a message at aedenwing@proton.me
